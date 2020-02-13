@@ -7,7 +7,7 @@
     "dev": "now dev --listen 3000",
     "stage": "now",
     "prod": "now --prod",
-    "build": "nodemon src/index.js"
+    "start": "nodemon src/index.js"
   },
   "author": "",
   "license": "ISC",
